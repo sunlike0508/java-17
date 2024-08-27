@@ -1,6 +1,6 @@
-package sealed.java11;
+package sealed.java17;
 
-public class Customer extends Person{
+public final class Customer extends Person {
 
     public Customer(String name) {
         super(name);

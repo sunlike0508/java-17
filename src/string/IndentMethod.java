@@ -1,6 +1,6 @@
 package string;
 
-public class StringMethod {
+public class IndentMethod {
 
     public static void indentMethod() {
         String text = "Like and subscribe";
