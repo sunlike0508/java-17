@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ef5b27-ceb0-49d3-9d2b-5bf2d158d309" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serialized/SerializedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-17.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NullPoint/NullPointException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NullPoint/NullPointException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectors/TeeingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectors/TeeingMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectors/ToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectors/ToList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/expression/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expression/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instance/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instance/InstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instance/InstanceOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instance/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/records/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/records/Records.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/records/RecordsLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/records/RecordsLombok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/records/RecordsRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/records/RecordsRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java11/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java11/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java11/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java11/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java11/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java11/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Waiter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/IndentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/IndentMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/TextBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/TextBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/TransformMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/TransformMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +20,21 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2lF2HlFHfXetmR90ukDwxA6NjtA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.SerializedTest.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -63,11 +52,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/seonhoshin/javacode/java-17/src/sealed/java17",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/greenribbon/MyProject/java-17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,10 +74,11 @@
       <recent name="$PROJECT_DIR$/src/sealed/java17" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="serialized" />
       <recent name="records" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sealed.java17.Main">
+  <component name="RunManager" selected="Application.SerializedTest">
     <configuration name="InstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="instance.InstanceOf" />
       <module name="java-17" />
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expression.Switch" />
+    <configuration name="SerializedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serialized.SerializedTest" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expression.*" />
+          <option name="PATTERN" value="serialized.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,13 +146,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializedTest" />
         <item itemvalue="Application.sealed.java17.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.NullPointException" />
         <item itemvalue="Application.InstanceOf" />
-        <item itemvalue="Application.Switch" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -163,6 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724761419365</updated>
       <workItem from="1724761420528" duration="6132000" />
+      <workItem from="1725411683316" duration="1447000" />
     </task>
     <servers />
   </component>
