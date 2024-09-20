@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ef5b27-ceb0-49d3-9d2b-5bf2d158d309" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractclass/Abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractclass/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractclass/Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractclass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/DemoHttpHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-17.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NullPoint/NullPointException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NullPoint/NullPointException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectors/TeeingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectors/TeeingMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectors/ToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectors/ToList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/expression/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expression/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instance/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/instance/InstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instance/InstanceOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instance/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/records/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/records/Records.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/records/RecordsLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/records/RecordsLombok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/records/RecordsRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/records/RecordsRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java11/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java11/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java11/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java11/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java11/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java11/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sealed/java17/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sealed/java17/Waiter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/IndentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/IndentMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/TextBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/TextBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/TransformMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/TransformMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,30 +34,45 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2lF2HlFHfXetmR90ukDwxA6NjtA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenModules" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/seonhoshin/javacode/java-17/src/sealed/java17",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/seonhoshin/javacode/java-17/src/sealed/java17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3137931&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="refactor.static_object" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/sealed/java17" />
     </key>
@@ -154,6 +156,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -163,6 +173,9 @@
       <option name="presentableId" value="Default" />
       <updated>1724761419365</updated>
       <workItem from="1724761420528" duration="6132000" />
+      <workItem from="1726152140462" duration="5840000" />
+      <workItem from="1726575824957" duration="1937000" />
+      <workItem from="1726640081514" duration="4288000" />
     </task>
     <servers />
   </component>
