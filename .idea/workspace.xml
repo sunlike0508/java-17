@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ef5b27-ceb0-49d3-9d2b-5bf2d158d309" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/user.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v1/DemoHttpHandlerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v2/DemoHttpHandlerV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v2/HttpStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v3/DemoHttpHandlerV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v3/HttpStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v4/DemoHttpHandlerV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v4/HttpStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v4/ResponseSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v5/DemoHttpHandlerV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v5/ResponseCreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v5/ResponseNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v5/ResponseSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v6/DemoHttpHandlerV6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v6/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v6/ResponseCreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v6/ResponseNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactor/static_object/v6/ResponseSuccess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +45,6 @@
   <component name="ProjectId" id="2lF2HlFHfXetmR90ukDwxA6NjtA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -42,8 +57,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Merging main",
-    "last_opened_file_path": "/Users/seonhoshin/javacode/java-17/src/sealed/java17",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/seonhoshin/javacode/java-17/src/refactor/static_object/v6",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -52,10 +67,20 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="refactor.static_object.v6" />
+      <recent name="refactor.static_object.v4" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/sealed/java17" />
+      <recent name="$PROJECT_DIR$/src/refactor/static_object/v6" />
+      <recent name="$PROJECT_DIR$/src/refactor/static_object/v5" />
+      <recent name="$PROJECT_DIR$/src/refactor/static_object/v4" />
+      <recent name="$PROJECT_DIR$/src/refactor/static_object" />
+      <recent name="$PROJECT_DIR$/src/refactor/static_object/v3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="refactor.static_object.v5" />
+      <recent name="refactor.static_object" />
       <recent name="records" />
     </key>
   </component>
