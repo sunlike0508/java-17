@@ -84,13 +84,13 @@
       <recent name="records" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sealed.java17.Main">
+  <component name="RunManager" selected="Application.SerializedTest">
     <configuration name="InstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="instance.InstanceOf" />
+      <option name="MAIN_CLASS_NAME" value="java17.instance.InstanceOf" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="instance.*" />
+          <option name="PATTERN" value="java17.instance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +99,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sealed.java11.Main" />
+      <option name="MAIN_CLASS_NAME" value="java17.sealed.java11.Main" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sealed.java11.*" />
+          <option name="PATTERN" value="java17.sealed.java11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="NullPointException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NullPoint.NullPointException" />
+      <option name="MAIN_CLASS_NAME" value="java17.NullPoint.NullPointException" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NullPoint.*" />
+          <option name="PATTERN" value="java17.NullPoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expression.Switch" />
+    <configuration name="SerializedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serialized.SerializedTest" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expression.*" />
+          <option name="PATTERN" value="serialized.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sealed.java17.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sealed.java17.Main" />
+    <configuration name="java17.sealed.java17.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java17.sealed.java17.Main" />
       <module name="java-17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sealed.java17.*" />
+          <option name="PATTERN" value="java17.sealed.java17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sealed.java17.Main" />
+        <item itemvalue="Application.SerializedTest" />
+        <item itemvalue="Application.java17.sealed.java17.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.NullPointException" />
         <item itemvalue="Application.InstanceOf" />
-        <item itemvalue="Application.Switch" />
       </list>
     </recent_temporary>
   </component>
